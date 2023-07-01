@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 15:11:26 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TheFirst</title>
+      <link>/posts/thefirst/</link>
+      <pubDate>Sat, 01 Jul 2023 15:11:26 +0800</pubDate>
+      
+      <guid>/posts/thefirst/</guid>
+      <description>
+        
+          
+            在创立新的博客文章命令时，名字套用&amp;lt;&amp;gt;格式导致找不到文件夹，取消两边的&amp;lt;&amp;gt;即可正常执行命令 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
